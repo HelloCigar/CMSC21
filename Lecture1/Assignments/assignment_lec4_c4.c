@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*capital 'v' in void*/
-int main(Void) { /*no opening curly braces*/
+int main(void) { /*no opening curly braces*/
 int sum;    /*capitalized 'int'*/
 /* COMPUTE RESULT */   /*unclosed comment*/
 sum = 25 + 37 - 19;    /*no closing semicolon*/
