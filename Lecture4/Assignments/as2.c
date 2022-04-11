@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void){
     int i;
-    i = 1;
+    i = 10;
     //a
     while (i < 10) {
         printf("%d ", i);
@@ -10,7 +10,7 @@ int main(void){
     printf("\n");
 
     //b
-    i = 1;
+    i = 10;
     for(; i < 10;){
        printf("%d ", i);
        i += 2;
@@ -18,7 +18,7 @@ int main(void){
     printf("\n");
 
     //c
-    i = 1;
+    i = 10;
     do{
        printf("%d ", i);
        i += 2;
